@@ -4,8 +4,7 @@ Frequently used UNIX commands in shell scripts
 ### http://gregrank.com
 
 ### oneliners
-### Comedians have jokes, unix users have terminal commands they use frequently. One can create an alias to run common commands in .profile or create
-### shell scripts to run commonly used commands. These shell scripts feature my "oneliners", commonly used commands for AV production, security and data visualization
+### Comedians have jokes, unix users have terminal commands they use frequently. One can create an alias to run common commands in .profile or create shell scripts to run commonly used commands. These shell scripts feature my "oneliners", commonly used commands for AV production, security and data visualization
 
 ### I have tried a half a dozen flavors of linux. I have used Ubuntu since version 7.04. These scripts have been used on Ubuntu 10.04 and later versions
 
