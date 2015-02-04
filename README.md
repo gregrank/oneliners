@@ -32,8 +32,7 @@ Frequently used UNIX commands in shell scripts
 
 
 ### 1) After years of posts to yahoo group site:
-### 2) from the command line, run grabayahoo.pl (http://sourceforge.net/projects/grabyahoogroup/)from ubuntu folder (needs perl
-### dependencies if not already installed)
+### 2) from the command line, run grabayahoo.pl (http://sourceforge.net/projects/grabyahoogroup/)from ubuntu folder (needs perl dependencies if not already installed)
 ### 3) from the command line, enter user/pass for yahoo site (as owner)
 ### change to message directory after download) 
 ### 4) run wordcount.sh against .mbox mail file from download (one liner)
